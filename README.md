@@ -1,2 +1,2 @@
-# saranyamohan.github.io
+# atomic-variable.github.io
 Personal website
